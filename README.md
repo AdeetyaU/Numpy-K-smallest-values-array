@@ -23,8 +23,8 @@ The Original Array Content
 [23,12,100,32,9,45,36,72,86,28,56,89]
 ```
 
-**You must print the 4 smallest values with k = 4 **
-Ask the user for the value of k.
+###### You must print the 4 smallest values with k = 4
+###### Ask the user for the value of k.
 
 ```
 Output: [9 12 23 28]
